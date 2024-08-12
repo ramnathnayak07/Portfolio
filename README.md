@@ -1,2 +1,4 @@
-# profile-website
-My personal profile published at: https://ramnathnayak07.github.io/Portfolio/
+# Portfolio
+
+Netlify: https://ramnathnayak.netlify.app/
+Github Pages: https://ramnathnayak07.github.io/Portfolio/
